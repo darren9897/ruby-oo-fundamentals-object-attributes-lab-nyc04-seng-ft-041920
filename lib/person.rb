@@ -17,7 +17,7 @@ class Person
     end
   
     def job=(new_job)
-      puts @job
+      @job
     end
     
 end
